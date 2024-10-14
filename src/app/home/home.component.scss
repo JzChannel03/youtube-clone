@@ -1,0 +1,9 @@
+:host {
+  border: 1px solid black;
+  grid-column: 2/3;
+  height: 100%;
+  .home {
+    //TODO: Arreglar para que el texto se vea correctamente debajo del título del video (Reconfigurar las clases)
+    height: 100%;
+  }
+}
